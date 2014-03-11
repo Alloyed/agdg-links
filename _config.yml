@@ -1,3 +1,4 @@
 name: AGDG Links
 markdown: redcarpet
 pygments: true
+baseurl: /agdg-links
