@@ -53,14 +53,6 @@ title : AGDG
 
 	>I warn all people against this group as there are probably real rapists within.
 
-*  <https://github.com/WizardsWorkshop/permadeath>
-
-	Permadeath: an AGDGers' group repository on game design. *Mostly* applied to multiplayer games, which are the groups' focus (but it's not networking things that they talk about).
-
-* <https://gist.github.com/affiszervmention/9034064>
-
-	The same groups' productivity FAQ and tips.
-
 ## posting progress
 *	<http://www.cockos.com/licecap/>
 
@@ -113,6 +105,9 @@ title : AGDG
 
 	An "insider" news site, much like Variety, but for games. Reprints a bunch of material from AAA gamedevs and successful indies alike.
 
+*  <https://github.com/WizardsWorkshop/permadeath>
+
+	A blog in markdown format. Submit pull requests.
 
 ### Programming
 
@@ -147,8 +142,6 @@ title : AGDG
 *	<http://youtu.be/Fy0aCDmgnxg>
 
 	Juice it or Lose it, or: How to Polish your Turd to a Mirror Shine
-
-
 
 ## Free shit
 
@@ -238,6 +231,5 @@ Everything here is considered `DEPRECATED`.
 
 ### How 2 edit
 
-login to your github account and fork it, ez. I'll take pull requests from the comments section.
-
-Don't have a github? do a !tell Alloyed in #vidyadev.
+The github repo is at <https://github.com/Alloyed/agdg-links>, submit
+your pull requests and issues and shit there.
