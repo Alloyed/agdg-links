@@ -66,16 +66,17 @@ necessary, and then convert them to webm.
 
 	<http://fraps.com/>
 
-	On Windows, these three programs will get video files of your game in some
-format or the other. Since video encoding is actually a complex business
-I suggest you google around for advice. Dxtory is good, OBS is built for
-live streaming but it works, and fraps is buggy shit that people still
-use for some reason. If you have a recent NVIDIA card, you may be able
-to use the built-in video encoder to record. Caveat Emptor.
+	On Windows, these three programs will get video files of your game
+in some format or the other. Since video encoding is actually a complex
+business I suggest you google around for advice. Dxtory is good for long
+or complex videos that would normally kill your rig, OBS can record most
+anything competently, and fraps is buggy shit that people still use for
+some reason. If you have a recent NVIDIA card, you may be able to use
+the built-in video encoder to record, too. Caveat Emptor.
 
 *	<http://en.wikipedia.org/wiki/Sony_Vegas_Pro>
 
-	for video editors, anything will do, but a common favorite for
+	For video editors, anything will do, but a common favorite for
 gaming is Sony Vegas. Figure it out nerd.
 
 *	<http://github.com/WebMBro/WebMConverter>
@@ -84,10 +85,11 @@ gaming is Sony Vegas. Figure it out nerd.
 4chan expects. WebMConverter provides a retard-friendly interface for
 that.
 
-	This is a gauntlet, yes, but at the end of the tunnel you should
-have a video you can post to both 4chan and youtube, with near-native
-resolution, impeccable color accuracy, and full framerate. Expect tools
-to improve with time.
+
+This is a bit of a gauntlet, yes, but at the end of the tunnel you
+should have a video you can post to both 4chan and youtube, with
+near-native resolution, impeccable color accuracy, and full framerate.
+Expect tools to improve with time.
 
 ### JIFS
 If that doesn't float your boat, you can always make crusty old gifs with these point-and-shoot tools.
@@ -101,7 +103,7 @@ If that doesn't float your boat, you can always make crusty old gifs with these 
 *	<http://github.com/WebMBro/WebMConverter>
 
 	If you go over the file limit, you can convert to webm, but keep in
-mind that this won't have nearly as good results as the full webm chain.
+mind that this won't have nearly as good results as the native webm chain.
 
 ### Misc. hosting
 
