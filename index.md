@@ -1,22 +1,17 @@
 ---
 layout : default
-title : AGDG
+title : AGDG Links
 ---
 # Amateur Game Dev General
-![JLMG](http://sadpanda.us/images/1757604-K2LO2O6.png)
+![JLMG](img/AGDG.png)
 
 [>>>/vg/agdg](http://boards.4chan.org/vg/catalog#s=agdg)
 
+[>>>archive/vg/agdg](http://archive.foolz.us/vg/search/text/AGDG/type/op/)
+
+[>>>RECAP MONDAY](http://homph.com/recap)
+
 [>>>dropbox/agdg](https://www.dropbox.com/sh/adcbqwhnk9iczxq/2TvhIxQ9UA)
-
-[>>>foolz/vg/agdg](http://archive.foolz.us/vg/search/text/AGDG/type/op/)
-
-[>>>DEMOS](http://archive.foolz.us/vg/search/subject/DEMO/filter/text/)
-
-[>>>PROGRESS](http://archive.foolz.us/vg/search/subject/PROGRESS/filter/text/)
-
-[>>>RECAP](http://archive.foolz.us/vg/search/subject/RECAP/filter/text/)
->pick one fgts
 
 ## AGDG resources
 *	<https://docs.google.com/spreadsheet/ccc?key=0Aq3t6_4BZDVndHRVekxUYjladjhCby1ST3g0RXllenc&usp=sharing#gid=0>
@@ -54,23 +49,86 @@ title : AGDG
 	>I warn all people against this group as there are probably real rapists within.
 
 ## posting progress
-*	<http://www.cockos.com/licecap/>
 
-	<http://blog.bahraniapps.com/?page_id=21>
+Thanks to the Infinte Wisdom of our Lord and saviour Moot, we now
+have two different formats to post our game in motion with.
 
-	Just like make GIFs. record your vidya to show to all your little internet buddies and complain when the colors come out wrong.
+### WEB 'EM
+
+webm files are just video files that get their sound stripped out
+when they're posted on 4chan. The *right* way to make webm files is to
+create video files using a screen capture tool, edit if them if
+necessary, and then convert them to webm.
 
 *	<http://exkode.com/dxtory-features-en.html>
 
-	Dickstory is fraps but good. Useful for recording audio or longer format video. Check /rs/.
+	<http://obsproject.com>
+
+	<http://fraps.com/>
+
+	On Windows, these three programs will get video files of your game in some
+format or the other. Since video encoding is actually a complex business
+I suggest you google around for advice. Dxtory is good, OBS is built for
+live streaming but it works, and fraps is buggy shit that people still
+use for some reason. If you have a recent NVIDIA card, you may be able
+to use the built-in video encoder to record. Caveat Emptor.
+
+*	<http://en.wikipedia.org/wiki/Sony_Vegas_Pro>
+
+	for video editors, anything will do, but a common favorite for
+gaming is Sony Vegas. Figure it out nerd.
+
+*	<http://github.com/WebMBro/WebMConverter>
+
+	Once you have the video, you need to convert into the webm format
+4chan expects. WebMConverter provides a retard-friendly interface for
+that.
+
+	This is a gauntlet, yes, but at the end of the tunnel you should
+have a video you can post to both 4chan and youtube, with near-native
+resolution, impeccable color accuracy, and full framerate. Expect tools
+to improve with time.
+
+### JIFS
+If that doesn't float your boat, you can always make crusty old gifs with these point-and-shoot tools.
+
+*	<http://cockos.com/licecap/>
+
+	<http://blog.bahraniapps.com/?page_id=21>
+
+	record your vidya to show to all your little internet buddies and complain when the colors come out wrong.
+
+*	<http://github.com/WebMBro/WebMConverter>
+
+	If you go over the file limit, you can convert to webm, but keep in
+mind that this won't have nearly as good results as the full webm chain.
+
+### Misc. hosting
 
 *	<http://dropbox.com>
 
-	<http://puu.sh>
+	Dropbox makes sharing webpages as easy as moving the finished page
+into the Dropbox folder. Good for Unity webgames and HTML5 concoctions,
+and you can host/change your packaged games here too.
 
-	<http://mega.co.nz>
+*	<http://pomf.se>
 
-	Free hosting for game demos. Dropbox hosts html, which means js  or unity webplayer games run fine. Puush links directly, which works for .swf or .love files.
+	Filehosting for NEETs and weebs. Unlike every other public file
+host, pomf trusts its users enough to directly link to their files. Good
+for flash/love2d games, and basically anything else.
+
+* 	<http://itch.io>
+
+	If you think your game is ready for the big leagues, you can start
+to beg for money by posting it on itch.io. Think of it like bandcamp but
+for shitty games nobody wants to buy. The admin is very liberal about
+hosting, to the point where it basically charity to new gamedevs.
+
+*	<http://mega.co.nz>
+
+	Use mega as a last resort. They'll host whatever, but the fact that
+it doesn't provide any direct links and that it's blocked for many an
+anon make it a pain to use.
 
 *	<http://pastebin.com>
 
@@ -85,7 +143,7 @@ title : AGDG
 
 ## Guides and Tutorials
 ### Getting Started
-*	<http://heartvine.tumblr.com/post/17243872646/indie-game-dev-faq >
+*	<http://heartvine.tumblr.com/post/17243872646/indie-game-dev-faq>
 
 	Vine's guide to the vidyadev.
 
@@ -111,7 +169,7 @@ title : AGDG
 
 ### Programming
 
-*	<http://www-cs-students.stanford.edu/~amitp/gameprog.html >
+*	<http://www-cs-students.stanford.edu/~amitp/gameprog.html>
 
 	Algorithms commonly used in vidyadev. Check here for pathfinding, AI, Coordinate transforms, and Entity models.
 
@@ -163,7 +221,7 @@ All free shit will either be labeled CC-NOPE meaning not actually "free" per se 
 
 ### Free Grafix
 
-*	<http://www.spriters-resource.com/ >
+*	<http://www.spriters-resource.com/>
 
 	Sprites from existing games. (CC-NOPE)
 
@@ -201,8 +259,6 @@ All free shit will either be labeled CC-NOPE meaning not actually "free" per se 
 
 *	<http://ideaguy.99k.org/>
 
-
-
 ## Ancient history
 
 Everything here is considered `DEPRECATED`.
@@ -231,5 +287,5 @@ Everything here is considered `DEPRECATED`.
 
 ### How 2 edit
 
-The github repo is at <https://github.com/Alloyed/agdg-links>, submit
+The Github repo is at <https://github.com/Alloyed/agdg-links>, submit
 your pull requests and issues and shit there.
