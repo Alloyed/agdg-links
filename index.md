@@ -213,9 +213,9 @@ All free shit will either be labeled CC-NOPE meaning not actually "free" per se 
 
 	A sound effect portal, includes both amateur and professional work. Not really geared toward gamedev. (CC-BY-NC)
 
-*	<http://www.superflashbros.net/as3sfxr/>
+*	<http://www.bfxr.net>
 
-	Lofi bleeps 'n bloops synth. Click the mutate button and get 100% original, low-effort effects. (CC0)
+	Lofi bleeps 'n bloops synth. Click the mutate button and get 100% original, low-effort effects. Like sfxr but better. (CC0)
 
 *	<https://soundcloud.com/search/sounds?q=vgm&filter.license=to_modify_commercially>
 
