@@ -165,10 +165,13 @@ anon make it a pain to use.
 
 	An "insider" news site, much like Variety, but for games. Reprints a bunch of material from AAA gamedevs and successful indies alike.
 
-*  <https://github.com/WizardsWorkshop/permadeath>
+* 	<https://github.com/WizardsWorkshop/permadeath>
 
 	A blog in markdown format. Submit pull requests.
 
+*	<http://vlambeer.com/toolkit>
+
+	A link list, much like the one you're looking at now, for people looking to doll up/market/sell a mostly-finished game. Made by Vlambeer.
 ### Programming
 
 *	<http://www-cs-students.stanford.edu/~amitp/gameprog.html>
