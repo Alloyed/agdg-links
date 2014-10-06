@@ -91,6 +91,10 @@ should have a video you can post to both 4chan and youtube, with
 near-native resolution, impeccable color accuracy, and full framerate.
 Expect tools to improve with time.
 
+There's also WebMCam, which brings the ease of use of GifCam to WebMs.
+
+*	<https://github.com/TheTarkus/WebMCam>
+
 ### JIFS
 If that doesn't float your boat, you can always make crusty old gifs with these point-and-shoot tools.
 
