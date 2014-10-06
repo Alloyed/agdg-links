@@ -56,9 +56,14 @@ have two different formats to post our game in motion with.
 ### WEB 'EM
 
 webm files are just video files that get their sound stripped out
-when they're posted on 4chan. The *right* way to make webm files is to
+when they're posted on 4chan. They are functionally identical to gifs, but with a much better compression ratio, which naturally leads to longer, better looking loops.
+
+*	<https://github.com/TheTarkus/WebMCam>
+
+Nowadays, you can just use WebmCam, which provides a point'n'shoot interface for grabbing screencaps.
+If that's too easy for you, the ~~right~~ *old* way to make webm files is to
 create video files using a screen capture tool, edit if them if
-necessary, and then convert them to webm.
+necessary, and then convert them to webm. This is understandably a pain, but worth knowing how to do, in case you want to make a longer video to put on youtube, or are on a platform where webmcam doesn't exist.
 
 *	<http://exkode.com/dxtory-features-en.html>
 
@@ -85,15 +90,7 @@ gaming is Sony Vegas. Figure it out nerd.
 4chan expects. WebMConverter provides a retard-friendly interface for
 that.
 
-
-This is a bit of a gauntlet, yes, but at the end of the tunnel you
-should have a video you can post to both 4chan and youtube, with
-near-native resolution, impeccable color accuracy, and full framerate.
-Expect tools to improve with time.
-
-There's also WebMCam, which brings the ease of use of GifCam to WebMs.
-
-*	<https://github.com/TheTarkus/WebMCam>
+Once you've gotten past this gauntlet you should have a webm as good as any other, as well as raw footage for any of your other video needs.
 
 ### JIFS
 If that doesn't float your boat, you can always make crusty old gifs with these point-and-shoot tools.
