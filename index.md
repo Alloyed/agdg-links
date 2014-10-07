@@ -146,9 +146,9 @@ anon make it a pain to use.
 
 ## Guides and Tutorials
 ### Getting Started
-*	<http://heartvine.tumblr.com/post/17243872646/indie-game-dev-faq>
+*	<http://www.vine2d.com/post/17243872646/indie-game-dev-faq>
 
-	Vine's guide to the vidyadev.
+	Vidyadev 101.
 
 *	<http://forums.tigsource.com/index.php>
 
