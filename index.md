@@ -95,7 +95,7 @@ If that doesn't float your boat, you can always make crusty old gifs with these 
 
 *	<http://cockos.com/licecap/>
 
-	<http://blog.bahraniapps.com/?page_id=21>
+	<http://blog.bahraniapps.com/gifcam/>
 
 	record your vidya to show to all your little internet buddies and complain when the colors come out wrong.
 
@@ -255,7 +255,7 @@ All free shit will either be labeled CC-NOPE meaning not actually "free" per se 
 
 *	<http://orteil.dashnet.org/gamegen>
 
-*	<http://ideaguy.99k.org/>
+*   <http://inventwithpython.com/blog/2012/02/20/i-need-practice-programming-49-ideas-for-game-clones-to-code/>
 
 ## Ancient history
 
