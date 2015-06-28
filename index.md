@@ -253,9 +253,15 @@ All free shit will either be labeled CC-NOPE meaning not actually "free" per se 
 
 *	<http://www.squidi.net/three/index.php>
 
+	Three Hundred Mechanics, the ultimate ideaguy website. Three hundred gameplay concepts to get the creative ball rolling. Continually updated.
+
 *	<http://orteil.dashnet.org/gamegen>
 
+	A game idea generator. Made by the same guy who made Cookie Clicker.
+
 *   <http://inventwithpython.com/blog/2012/02/20/i-need-practice-programming-49-ideas-for-game-clones-to-code/>
+
+	49 games you can make clones of. Written by the author of "Invent with Python," Al Sweigart.
 
 ## Ancient history
 
