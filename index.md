@@ -11,8 +11,6 @@ title : AGDG Links
 
 [>>>RECAP MONDAY](http://homph.com/recap)
 
-[>>>dropbox/agdg](https://www.dropbox.com/sh/adcbqwhnk9iczxq/2TvhIxQ9UA)
-
 ## AGDG resources
 *	<https://docs.google.com/spreadsheet/ccc?key=0Aq3t6_4BZDVndHRVekxUYjladjhCby1ST3g0RXllenc&usp=sharing#gid=0>
 
@@ -113,12 +111,6 @@ mind that this won't have nearly as good results as the native webm chain.
 	Dropbox makes sharing webpages as easy as moving the finished page
 into the Dropbox folder. Good for Unity webgames and HTML5 concoctions,
 and you can host/change your packaged games here too.
-
-*	<http://pomf.se>
-
-	Filehosting for NEETs and weebs. Unlike every other public file
-host, pomf trusts its users enough to directly link to their files. Good
-for flash/love2d games, and basically anything else.
 
 * 	<http://itch.io>
 
