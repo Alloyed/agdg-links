@@ -114,11 +114,11 @@ mind that this won't have nearly as good results as the native webm chain.
 into the Dropbox folder. Good for Unity webgames and HTML5 concoctions,
 and you can host/change your packaged games here too.
 
-*	<http://pomf.se>
-
-	Filehosting for NEETs and weebs. Unlike every other public file
-host, pomf trusts its users enough to directly link to their files. Good
-for flash/love2d games, and basically anything else.
+* 	<http://1339.cf/>
+	
+	Filehosting using the pomf.se software, direct linking is allowed. Can
+	be used for flash/love2d games, and is great for really any other
+	game installers or files.
 
 * 	<http://itch.io>
 
@@ -290,6 +290,15 @@ Everything here is considered `DEPRECATED`.
 *	<http://pastebin.com/xM5d4qu1>
 
 	A list of game library suggestions. Supposedly updated 2013, but the info calls now mature libraries indev and and references dead relics.
+	
+	
+
+*	<http://pomf.se>
+
+	Shut down as of June 2015 due to lack of funding. [read more](http://blog.pomf.se/post/121058516206/shutting-down)
+	Filehosting for NEETs and weebs. Unlike every other public file
+	host, pomf trusts its users enough to directly link to their files. Good
+	for flash/love2d games, and basically anything else.
 
 ### How 2 edit
 
